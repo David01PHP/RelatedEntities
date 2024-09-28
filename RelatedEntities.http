@@ -1,0 +1,6 @@
+@RelatedEntities_HostAddress = http://localhost:5178
+
+GET {{RelatedEntities_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
